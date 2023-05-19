@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Elisa
-- 👀 I’m interested in more programming languages
-- 🌱 I’m currently learning R, data science and machine learning
-- 📫 How to reach me: elisacardoso1543@gmail.com
-- I like to read, write and learn new things... :), and dogs ^^
+- Hi, I’m Elisa :)
+- I have dedicated myself to learning data science
+- How to reach me: elisacardoso1543@gmail.com
+- Linkedin: https://www.linkedin.com/in/elisa-cardoso-82594325b/?originalSubdomain=br
+
 
